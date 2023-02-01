@@ -1,0 +1,1 @@
+console.log('이것은 npm root에 있는 패키지의 소스코드');
